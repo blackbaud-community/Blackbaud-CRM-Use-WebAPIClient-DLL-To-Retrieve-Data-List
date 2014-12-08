@@ -9,7 +9,7 @@ This customization demonstrates how to integrate a custom application with Black
 
 This customization requires familiarity with Infinity Web Service APIs and Data Lists, as well as concepts central to data lists such as context, security, and data list filters.
 
-If you are new to the Infinity, you should refer to the [Introduction to Infinity Web Service APIs](https://www.blackbaud.com/files/support/guides/infinitydevguide/Subsystems/inwebapi-developer-help/inwebapi-developer-help.htm#InfinityWebAPI/coIntroductionToThe InfinityWebServiceAPIs.htm) article and the [Overview of Infinity Data Lists](https://www.blackbaud.com/files/support/guides/infinitydevguide/Subsystems/inwebapi-developer-help/Content/InfinityDataLists/cochDataList.htm) article.
+If you are new to the Infinity, you should refer to the [Introduction to Infinity Web Service APIs](https://www.blackbaud.com/files/support/guides/infinitydevguide/Subsystems/inwebapi-developer-help/inwebapi-developer-help.htm#InfinityWebAPI/coIntroductionToThe InfinityWebServiceAPIs.htm) article and the [Overview of Infinity Data Lists](https://www.blackbaud.com/files/support/guides/infinitydevguide/Subsystems/datalist-developer-help/Content/InfinityDataLists/cochDataList.htm) article.
 ##Resources##
 * See the [Blackbaud CRM Read Me](https://github.com/blackbaud-community/Blackbaud-CRM/blob/master/README.md). 
 * [Step by Step Instructions](https://www.blackbaud.com/files/support/guides/infinitydevguide/Subsystems/inwebapi-developer-help/Content/InfinityDataLists/coUsingAWebAPIClientDLLToRetrieveADataList.htm) for retrieving a data list
