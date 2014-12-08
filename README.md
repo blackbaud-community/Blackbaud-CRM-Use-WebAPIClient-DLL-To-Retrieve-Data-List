@@ -13,6 +13,7 @@ If you are new to the Infinity, you should refer to the [Introduction to Infinit
 ##Resources##
 * See the [Blackbaud CRM Read Me](https://github.com/blackbaud-community/Blackbaud-CRM/blob/master/README.md). 
 * [Step by Step Instructions](https://www.blackbaud.com/files/support/guides/infinitydevguide/infsdk-developer-help.htm#../Subsystems/dmd-developer-help/Content/InfinityDataLists/coUsingAWebAPIClientDLLToRetrieveADataList.htm?Highlight=.zip) for retrieving a data list
+* [Step by Step Instructions](https://www.blackbaud.com/files/support/guides/infinitydevguide/Subsystems/inwebapi-developer-help/Content/InfinityDataLists/coUsingAWebAPIClientDLLToRetrieveADataList.htm)
 * [Infinity Web API](https://www.blackbaud.com/files/support/guides/infinitydevguide/infsdk-developer-help.htm#../Subsystems/inwebapi-developer-help/Content/InfinityWebAPI/WelcomeInfinityWebAPI.htm) Chapter within Developer Guides
 
 ##Contributing##
