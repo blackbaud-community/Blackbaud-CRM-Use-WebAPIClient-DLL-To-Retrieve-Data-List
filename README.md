@@ -12,8 +12,7 @@ This customization requires familiarity with Infinity Web Service APIs and Data 
 If you are new to the Infinity, you should refer to the [Introduction to Infinity Web Service APIs](https://www.blackbaud.com/files/support/guides/infinitydevguide/Subsystems/inwebapi-developer-help/inwebapi-developer-help.htm#InfinityWebAPI/coIntroductionToThe InfinityWebServiceAPIs.htm) article and the [Overview of Infinity Data Lists](https://www.blackbaud.com/files/support/guides/infinitydevguide/Subsystems/inwebapi-developer-help/Content/InfinityDataLists/cochDataList.htm) article.
 ##Resources##
 * See the [Blackbaud CRM Read Me](https://github.com/blackbaud-community/Blackbaud-CRM/blob/master/README.md). 
-* [Step by Step Instructions](https://www.blackbaud.com/files/support/guides/infinitydevguide/infsdk-developer-help.htm#../Subsystems/dmd-developer-help/Content/InfinityDataLists/coUsingAWebAPIClientDLLToRetrieveADataList.htm?Highlight=.zip) for retrieving a data list
-* [Step by Step Instructions](https://www.blackbaud.com/files/support/guides/infinitydevguide/Subsystems/inwebapi-developer-help/Content/InfinityDataLists/coUsingAWebAPIClientDLLToRetrieveADataList.htm)
+* [Step by Step Instructions](https://www.blackbaud.com/files/support/guides/infinitydevguide/Subsystems/inwebapi-developer-help/Content/InfinityDataLists/coUsingAWebAPIClientDLLToRetrieveADataList.htm) for retrieving a data list
 * [Infinity Web API](https://www.blackbaud.com/files/support/guides/infinitydevguide/infsdk-developer-help.htm#../Subsystems/inwebapi-developer-help/Content/InfinityWebAPI/WelcomeInfinityWebAPI.htm) Chapter within Developer Guides
 
 ##Contributing##
