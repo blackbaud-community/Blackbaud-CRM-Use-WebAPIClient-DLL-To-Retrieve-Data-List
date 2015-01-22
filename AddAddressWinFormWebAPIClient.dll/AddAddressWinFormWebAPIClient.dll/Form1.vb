@@ -74,9 +74,9 @@ Public Class Form1
 #Region "Helper Functions"
     Private Sub Initialize()
 
-        ServiceProvider = New AppFxWebServiceProvider("http://localhost/BBInfinityPROD2.7.1633.0/appfxwebservice.asmx", _
-                                                     "BBInfinityPROD2.7.1633.0", _
-                                                     "AddAddressWinFormWebAPIClient")
+        ServiceProvider = New AppFxWebServiceProvider("<provide appfxwebservice.asmx url>", _
+                                                     "<provide database key name>", _
+                                                     "<provide a name for your client app")
         ServiceProvider.Credentials = System.Net.CredentialCache.DefaultCredentials
 
         Me.btnSearch.Enabled = EvalSearchCriteriaDisplay()
