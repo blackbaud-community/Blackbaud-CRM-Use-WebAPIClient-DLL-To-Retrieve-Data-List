@@ -76,7 +76,7 @@ Public Class Form1
 
         ServiceProvider = New AppFxWebServiceProvider("<provide appfxwebservice.asmx url>", _
                                                      "<provide database key name>", _
-                                                     "<provide a name for your client app")
+                                                     "<provide a name for your client app>")
         ServiceProvider.Credentials = System.Net.CredentialCache.DefaultCredentials
 
         Me.btnSearch.Enabled = EvalSearchCriteriaDisplay()
